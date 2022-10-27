@@ -1,5 +1,5 @@
 # electorent-server
-
+deployed link: https://electorent.netlify.app/
 ## Follow the readme file to setup and use the repository
 
 ## for setup:
